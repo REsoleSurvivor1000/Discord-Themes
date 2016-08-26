@@ -1,4 +1,4 @@
-# Those-Discord-Themes
+# RE's Collection of Discord Themes v1!
 
 
 Themes for BetterDiscord 
