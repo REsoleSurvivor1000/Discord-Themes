@@ -19,8 +19,15 @@ Here you will find some examples of the themes I have mended together. Based alm
 
 Quick-Tips on theme edits:
 
-.content .flex-spacer    =    Center Chat Wall
+~ .content .flex-spacer    =    Center Chat Wall
 
+~ .title-wrap              =    Upper Channel Title Area
+
+~ .channel-members         =    Right Side User List Area
+
+~ .guilds-wrapper          =    Far Left Side Chatroom Icons
+
+~ .channels-wrap           =    Right Side (#) Chat-Channel Area
 
 
 
