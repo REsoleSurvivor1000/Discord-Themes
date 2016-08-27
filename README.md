@@ -14,6 +14,17 @@ Here you will find some examples of the themes I have mended together. Based alm
 
 
 
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Quick-Tips on theme edits:
+
+.content .flex-spacer    =    Center Chat Wall
+
+
+
+
+
 ~JustThingsFromACSSN00b
 
 
