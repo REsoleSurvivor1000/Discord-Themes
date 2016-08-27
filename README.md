@@ -7,7 +7,8 @@ Themes for BetterDiscord.
 
 Here you will find some examples of the themes I have mended together. Based almost entirely off of the Discord Reborn theme by Omniscen.t
 
-<b>Saber in Flight</b>
+
+<b>- Saber in Flight</b>
 
 
 
