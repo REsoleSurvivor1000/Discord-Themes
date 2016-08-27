@@ -30,6 +30,8 @@ Quick-Tips on theme edits:
 ~ .channels-wrap           =    Right Side (#) Chat-Channel Area
 
 
+Use ctrl+f and search for these terms in Notepad++. Color hexidecimal keys for editing areas go as follows; ([red], [green], [blue], and [opacity]).
+RGB values range from 0-255 and Opacity ranges from 0 to 1 in tenths decimal increments.
 
 
 ~JustThingsFromACSSN00b
