@@ -30,8 +30,9 @@ Quick-Tips on theme edits:
 ~ .channels-wrap           =    Right Side (#) Chat-Channel Area
 
 
-Additional CSS elements can be found using ctrl+shift+c using Google Chrome. Editing docs w/ Notepad++ use ctrl+f to search for the above elements to edit. Color hexidecimal keys for editing areas go as follows; 
-([red], [green], [blue], and [opacity]).
+Additional CSS elements can be found using ctrl+shift+c using Google Chrome. Editing docs w/ Notepad++ use ctrl+f to 
+search for the above elements to edit. Color hexidecimal keys for editing areas go as follows; 
+- ([red], [green], [blue], and [opacity]) -
 
 RGB values range from 0-255 and Opacity ranges from 0 to 1 in tenths decimal increments.
 
